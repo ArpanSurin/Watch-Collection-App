@@ -1,4 +1,4 @@
-# 🕰️ Watch Collection Flutter App
+# ⌚ Watch Collection Flutter App
 
 This is a simple Flutter application that showcases a collection of analog, digital, and chronograph watches.\
 The app fetches information from predefined data models and displays a list of watches in a user-friendly format. The UI includes buttons and gesture interactions, offering a clean and functional experience for users.
