@@ -11,9 +11,6 @@ The app fetches information from predefined data models and displays a list of w
 - **Image Assets :** Integrated icons for user interaction such as navigating to the next watch item.
 
 
-![Flutter Watch App Preview](https://drive.google.com/uc?id=1u1BYwPXL1uO7WjHnxhJ7_gs-Tt1QtXlG)
-
-
 ## 🎨 UI Overview
 
 The app consists of a list view displaying watches and their details:
