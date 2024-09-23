@@ -3,7 +3,7 @@
 This is a simple Flutter application that showcases a collection of analog, digital, and chronograph watches.\
 The app fetches information from predefined data models and displays a list of watches in a user-friendly format. The UI includes buttons and gesture interactions, offering a clean and functional experience for users.
 
-[Flutter Watch App Screenshot](https://drive.google.com/file/d/1u1BYwPXL1uO7WjHnxhJ7_gs-Tt1QtXlG/view?usp=sharing)
+[Flutter watch app preview](https://drive.google.com/file/d/1pPJeVYwOFy8v-kGviqd4OptJFxa0MSt6/view?usp=sharing)
 
 ## 📱 Features
 
